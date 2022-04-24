@@ -20,13 +20,13 @@
 
 旋转角度：等腰顶角度数
 
-![image-20220424201411785](C:\Users\13797\AppData\Roaming\Typora\typora-user-images\image-20220424201411785.png)
+![image-20220424201411785](https://gitee.com/shigencong/review/raw/master/pictures/image-20220424201411785.png)
 
 易证：
 $$
 CD+BD=DE=\sqrt{2}AD
 $$
-![image-20220424201820692](C:\Users\13797\AppData\Roaming\Typora\typora-user-images\image-20220424201820692.png)
+![image-20220424201820692](https://gitee.com/shigencong/review/raw/master/pictures/image-20220424201820692.png)
 
 易证：
 $$
